@@ -15,11 +15,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/chequerdev](https://github.com/chequerdev)
 
-- 💬 Ask me about **transitioning into a career as a Junior Developer and tips for learning programming.**
+- 💬 Ask me about **transition in into a career as a Junior Developer and tips for learning programming.**
 
 - 📫 How to reach me **gabrielchequer123@gmail.com**
 
-- ⚡ Fun fact **I’m a huge car enthusias**
+- ⚡ Fun fact **I’m a huge car enthusiast**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
